@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Laravel, React**
 
-- 📝 I regularly write articles on [Leadership](Leadership)
+- 📝 I regularly write articles on [Leadership](https://medium.com/@antoney_nyaga)
 
 - 💬 Ask me about **React, PHP, C#, Laravel**
 

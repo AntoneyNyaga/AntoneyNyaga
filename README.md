@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on <b>C#</b>, <b>React Projects</b>
-- 🌱 I’m currently learnin, <b>Laravel</b>, <b>Typecsript</b>
+- 🌱 I’m currently learning, <b>Laravel</b>, <b>Typecsript</b>
 - 💬 Ask me about, <b>PHP</b>, <b>C#</b>
 - 📫 Reach me at: antoneynyaga01@gmail.com
 - ⚡ Fun fact: <b>I'm a Leadership Enthusiast</b>

@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/martinHeinz/MartinHeinz/Master/wave.gif" width="30px"> I'm Antoney Nyaga 
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Antoney Nyaga 
 
 
 - 🔭 I’m currently working on #C#, #React Projects

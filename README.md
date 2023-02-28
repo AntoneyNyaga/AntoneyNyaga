@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Antoney Nyaga 
+### Hi there <img src="https://raw.githubuusercontent.com/martinHeinz/MartinHeinz/Master/wave.gif"> I'm Antoney Nyaga 
 
 
 - 🔭 I’m currently working on #C#, #React Projects

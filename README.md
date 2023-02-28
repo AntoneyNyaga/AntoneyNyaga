@@ -19,6 +19,8 @@
 
 - 🔭 Slogan: **A Bold Attempt is Half Success**
 
+<img align="center" alt="coding" width="400px" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"> 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/antoneynyaga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="antoneynyaga" height="30" width="40" /></a>

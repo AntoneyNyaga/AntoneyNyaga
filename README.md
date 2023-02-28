@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Antoney Nyaga</h1>
+
+<h3 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Antoney Nyaga</h3>
+
 <h3 align="center">A passionate Software developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=antoneynyaga" alt="antoneynyaga" /></a> </p>
@@ -14,6 +16,8 @@
 - 📫 How to reach me **antoneynyaga01@gmail.com**
 
 - ⚡ Fun fact **I'm a Leadership Enthusiast**
+
+- 🔭 Slogan: **A Bold Attempt is Half Success**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
